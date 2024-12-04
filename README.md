@@ -1,6 +1,8 @@
-This started out as a practice directory for studying Pandas for my Data Science class 
+This started out as a practice for studying Pandas for my Data Science class 
 at Houston Community College, but then turned into learning how to bring Machine Learning 
 to a sports situation. 
+
+Possible directions that this could be used and how they can be implemented: 
 
 	1. Pitch Prediction Model
 	•	Build a model that predicts the next pitch type (fastball, curveball, etc.) based on historical data for a particular pitcher and batter. You can incorporate pitch location, speed, count, and previous pitch type.
